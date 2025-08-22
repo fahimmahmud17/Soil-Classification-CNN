@@ -39,17 +39,17 @@ To run this project, you will need to install the required libraries.
 ```bash
 pip install torch torchvision timm matplotlib pandas jupyter
 
-## Run the Jupyter Notebook:
-Open and run the soil_classification.ipynb notebook in a Jupyter environment. The notebook covers:
+## Usage & Results
 
-Data loading and preprocessing.
+### How to Run the Project
+To get started, open and run the `soil_classification.ipynb` notebook in a Jupyter environment. The notebook is self-contained and covers all the necessary steps:
 
-Model definition and training.
+* **Data Loading and Preprocessing:** Loading the image dataset and preparing it for the model.
+* **Model Definition and Training:** Building and training the EfficientNet-B0 model.
+* **Evaluation and Visualization:** Testing the model and visualizing the results.
 
-Evaluation and visualization of results.
-
-Results
+### Performance
 The model achieved the following performance on the test set:
 
-Accuracy: 98.53%
+* **Accuracy:** **98.53%**
 
