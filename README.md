@@ -72,8 +72,6 @@ The model achieved the following performance on the test set:
 
 Accuracy: 98.53%
 
-Loss: [Add your final loss value here]
 
-Here is the confusion matrix from the model's predictions:
 
-(You can add a screenshot of your confusion matrix here if you like)
+
