@@ -32,13 +32,6 @@ The model is a `timm/efficientnet-b0` pre-trained on the ImageNet dataset, with 
 * **Optimizer:** Adam
 * **Loss Function:** Cross-Entropy Loss
 
-## Installation
-
-To run this project, you will need to install the required libraries.
-
-```bash
-pip install torch torchvision timm matplotlib pandas jupyter
-
 ## Usage & Results
 
 ### How to Run the Project
@@ -52,4 +45,13 @@ To get started, open and run the `soil_classification.ipynb` notebook in a Jupyt
 The model achieved the following performance on the test set:
 
 * **Accuracy:** **98.53%**
+
+
+
+## Installation
+
+To run this project, you will need to install the required libraries.
+
+```bash
+pip install torch torchvision timm matplotlib pandas jupyter
 
