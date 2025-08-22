@@ -39,3 +39,17 @@ To run this project, you will need to install the required libraries.
 ```bash
 pip install torch torchvision timm matplotlib pandas jupyter
 
+## Run the Jupyter Notebook:
+Open and run the soil_classification.ipynb notebook in a Jupyter environment. The notebook covers:
+
+Data loading and preprocessing.
+
+Model definition and training.
+
+Evaluation and visualization of results.
+
+Results
+The model achieved the following performance on the test set:
+
+Accuracy: 98.53%
+
